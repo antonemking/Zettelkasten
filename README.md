@@ -5,3 +5,9 @@ Welcome to my personal slipbox. This is an attempt at building a proper note-tak
 # Configuration
 
 This can be found in this (repo). As I have stated please do not just copy my config and use at your own risk. I am really new to vim so this will be a public learning experience.
+
+## To do
+
+- [ ] Add repo link to dotfiles
+- [ ] Explain navigation
+- [ ] Philosophy
