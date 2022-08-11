@@ -1,6 +1,6 @@
 # Index
 
-[[Vim]]:: notes on Vim
+[Vim MOC ](202208110032.md):: notes on Vim
 [[Stoicism]]:: structure note
 
 
