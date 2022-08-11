@@ -1,4 +1,4 @@
 # Stoicism MOC
 
 
-## Stoic Philosophy
+## Stoic "hilosophy
