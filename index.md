@@ -3,9 +3,12 @@
 ![Repo link](https://github.com/antonemking/Zettelkasten.git)
 
 
-
+## Technical Stuff
 [Vim MOC ](202208110032.md):: _Vim Map of Content (MOC)_
 [[Linux MOC]]:: _Linux Map of Content (MOC)_
+[[Cyber MOC]]:: _Cybersec Map of Content (MOC)
+
+## Life Stuff
 [Stocism MOC ](202208110131.md):: _Stoic Map of Content (MOC)_
 
 
