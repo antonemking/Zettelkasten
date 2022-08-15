@@ -3,6 +3,10 @@
 --> ![Repo link](https://github.com/antonemking/Zettelkasten.git)
 
 
+## Professional Development
+
+- [PLACEHOLDER MOC]:: _Tufts MSEM Degree_ 
+
 ## Technical Stuff
 
 - [Vim MOC ](202208110032.md):: _Vim Map of Content (MOC)_
