@@ -3,7 +3,7 @@
 --> ![Repo link](https://github.com/antonemking/Zettelkasten.git)
 
 ## Academic Disciplines
-
+- [Arts and Humanities](Arts and  Humanities - 1000.md)
 - [[Social Sciences - 2000]]
 - [[Natural Sciences - 3000]]
 - [[Formal Sciences - 4000]]
