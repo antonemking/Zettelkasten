@@ -8,12 +8,8 @@
 - [ ] Formal Sciences - 4000
 - [ ] Applied Arts and Sciences - 5000
 
- ## Technical Stuff
-
-- [Vim MOC ](202208110032.md):: _Vim Map of Content (MOC)_
-- [Linux MOC ](202208141811.md):: _Linux Map of Content (MOC)_
-- [Cyber MOC ](202208141819.md):: _Cybersec Map of Content (MOC)
-
+ 
+## Dictionary
 
 - A(1)
     * [Arts and Humanities - 1000](202208240139.md)
