@@ -9,11 +9,7 @@
 - [[Natural Sciences - 3000]]
 - [[Formal Sciences - 4000]]
 - [[Applied Arts & Sciences - 5000]]
-
-
-## Professional Development
-
-- [PLACEHOLDER MOC]:: _Tufts MSEM Degree_ 
+ 
 
 ## Technical Stuff
 
@@ -27,6 +23,7 @@
 
 
 - A(1)
+    * 
 - B(1)
 - C(1)
 - D(1)
