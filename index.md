@@ -1,16 +1,14 @@
 [#](#.md) Index
 
---> ![Repo link](https://github.com/antonemking/Zettelkasten.git)
 
 ## Academic Disciplines
 - [Arts and Humanities - 1000](Arts and  Humanities - 1000.md)
 - [[Social Sciences - 2000]]
 - [[Natural Sciences - 3000]]
 - [[Formal Sciences - 4000]]
+- [Applied Arts and Sciences - 5000](Applied Arts and Sciences - 5000.md)
 
- 
-
-## Technical Stuff
+ ## Technical Stuff
 
 - [Vim MOC ](202208110032.md):: _Vim Map of Content (MOC)_
 - [Linux MOC ](202208141811.md):: _Linux Map of Content (MOC)_
@@ -41,6 +39,7 @@
 - Q(1)
 - R(1)
 - S(1)
+    * [[Stoicism - 1150]]
 - T(1)
 - U(1)
 - V(1)
