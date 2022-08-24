@@ -20,7 +20,7 @@
 
 
 - A(1)
-    * [[Arts and Humanities - 1000]]
+    * [Arts and Humanities - 1000](202208240139.md)
     * [[Applied Arts and Sciences - 5000]]  
 - B(1)
 - C(1)
