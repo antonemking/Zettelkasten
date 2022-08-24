@@ -4,7 +4,6 @@
 
 ## Academic Disciplines
 
-- [[Arts & Humanities - 1000]]
 - [[Social Sciences - 2000]]
 - [[Natural Sciences - 3000]]
 - [[Formal Sciences - 4000]]
@@ -23,7 +22,8 @@
 
 
 - A(1)
-    *  
+    * [[Arts and  Humanities - 1000]]
+      
 - B(1)
 - C(1)
 - D(1)
