@@ -1,4 +1,4 @@
-[#](#.md) Index
+# Index
 
 
 ## Academic Disciplines
