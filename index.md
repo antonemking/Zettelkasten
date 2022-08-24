@@ -7,7 +7,7 @@
 - [[Social Sciences - 2000]]
 - [[Natural Sciences - 3000]]
 - [[Formal Sciences - 4000]]
-- [[Applied Arts & Sciences - 5000]]
+
  
 
 ## Technical Stuff
