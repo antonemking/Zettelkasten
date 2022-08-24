@@ -3,10 +3,10 @@
 
 ## Academic Disciplines
 - [Arts and Humanities - 1000](202208240139.md) 
-- [[Social Sciences - 2000]]
-- [[Natural Sciences - 3000]]
-- [[Formal Sciences - 4000]]
-- [Applied Arts and Sciences - 5000](Applied Arts and Sciences - 5000.md)
+- [ ] Social Sciences - 2000
+- [ ] Natural Sciences - 3000
+- [ ] Formal Sciences - 4000
+- [ ] Applied Arts and Sciences - 5000
 
  ## Technical Stuff
 
